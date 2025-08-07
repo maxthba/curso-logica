@@ -5,6 +5,12 @@ void limpar_entrada(){
     char c;
     while ((c=getchar()) != '\n' && c != EOF) {}
 }
+
+void ler_texto(char *buffer, int length){
+    fgets(buffer, length, stdin);
+    strtok(buffer, "\n");
+}
+
 int main (){
 
     int idade;
@@ -27,8 +33,7 @@ int main (){
 
     limpar_entrada();
     printf("digite o nome:");
-    fgets(nome, 20, stdin);
-    strtok(nome, "\n");
+    ler_texto(nome, 20);
     
     printf("\nidade: %i\n", idade);
     printf("salario: %.2lf\n", salario);
