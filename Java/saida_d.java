@@ -1,6 +1,6 @@
 import java.util.Locale;
 
-public class Main {
+public class saida_d {
     public static void main(String[] args) {
         //printando mensagens na mesma linha
         System.out.print("bom dia ");

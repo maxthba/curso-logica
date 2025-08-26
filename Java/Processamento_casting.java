@@ -1,4 +1,4 @@
-public class Main {
+public class Processamento_casting {
     public static void main(String[] args) {
         //operacoes comuns
         int x, y;
