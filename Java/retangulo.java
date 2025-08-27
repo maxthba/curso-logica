@@ -18,7 +18,12 @@ public class retangulo {
         perimetro = 2*base * 2*altura;
         diagonal = Math.sqrt(base*base + altura*altura);
 
-        System.out.println("base: "+base+"\naltura: "+altura+"\narea: "+String.format("%.4f", area)+"\nperimetro: "+String.format("%.4f", perimetro)+" \ndiagonal: "+String.format("%.4f", diagonal)+"" );
-
+        System.out.println("base: "+base+
+        "\naltura: "+altura+
+        "\narea: "+String.format("%.4f", area)+
+        "\nperimetro: "+String.format("%.4f", perimetro)+
+        "\ndiagonal: "+String.format("%.4f", diagonal) );
+        
+        sc.close();
     }
 }
