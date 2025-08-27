@@ -30,6 +30,9 @@ public class idade {
         "\nIdade: "+idade2+
         "\nA media de idade eh de "+media);
         
+<<<<<<< HEAD
         sc.close();
+=======
+>>>>>>> 1fabbb6ec8b9f85fc71bbc26a826b5ae89ade05a
     }
 }
