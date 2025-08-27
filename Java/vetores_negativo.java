@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class soma_vetores {
+public class vetores_negativo {
     public static void main(String[] arg){
         Scanner sc = new Scanner(System.in);
 
