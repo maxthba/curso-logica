@@ -23,6 +23,7 @@ public class diagonal_negativo {
                 }
             }
         }
+        System.out.println("Diagonal principal");
         for (int i=0;i<N;i++){
             for (int j=0;j<N;j++){
                 if(i==j){
@@ -35,7 +36,7 @@ public class diagonal_negativo {
             System.out.println();
         }
         System.out.println("quantidade de numeros negativos: "+qnt_negativos);
-        
+
         sc.close();
     }
 }
