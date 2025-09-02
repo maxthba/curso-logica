@@ -1,0 +1,15 @@
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\c#\EstruturasDeControle\bin\Debug\net9.0\EstruturasDeControle.exe
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\c#\EstruturasDeControle\bin\Debug\net9.0\EstruturasDeControle.deps.json
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\c#\EstruturasDeControle\bin\Debug\net9.0\EstruturasDeControle.runtimeconfig.json
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\c#\EstruturasDeControle\bin\Debug\net9.0\EstruturasDeControle.dll
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\c#\EstruturasDeControle\bin\Debug\net9.0\EstruturasDeControle.pdb
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\c#\EstruturasDeControle\obj\Debug\net9.0\EstruturasDeControle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\c#\EstruturasDeControle\obj\Debug\net9.0\EstruturasDeControle.AssemblyInfoInputs.cache
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\c#\EstruturasDeControle\obj\Debug\net9.0\EstruturasDeControle.AssemblyInfo.cs
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\c#\EstruturasDeControle\obj\Debug\net9.0\EstruturasDeControle.csproj.CoreCompileInputs.cache
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\c#\EstruturasDeControle\obj\Debug\net9.0\EstruturasDeControle.sourcelink.json
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\c#\EstruturasDeControle\obj\Debug\net9.0\EstruturasDeControle.dll
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\c#\EstruturasDeControle\obj\Debug\net9.0\refint\EstruturasDeControle.dll
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\c#\EstruturasDeControle\obj\Debug\net9.0\EstruturasDeControle.pdb
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\c#\EstruturasDeControle\obj\Debug\net9.0\EstruturasDeControle.genruntimeconfig.cache
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\c#\EstruturasDeControle\obj\Debug\net9.0\ref\EstruturasDeControle.dll
