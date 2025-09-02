@@ -12,17 +12,31 @@ namespace EstruturaDeControle
             System.Console.Write("digite uma hora: ");
             hora = int.Parse(Console.ReadLine());
 
-            if (hora < 12)
+            if (hora <= 12)
             {
                 Console.WriteLine("Bom dia!!");
             }
-            else if (12 < hora && hora<18)
+            else if (12 < hora && hora <= 18)
             {
                 Console.WriteLine("Boa tarde!!");
             }
-            else {
+            else
+            {
                 Console.WriteLine("Boa noite!!");
             }
+
+            int x, soma = 0;
+
+            Console.WriteLine("Digite um numero: ");
+            x = int.Parse(Console.ReadLine());
+
+            while (x != 0)
+            {
+                soma += x;
+                Console.WriteLine("Digite outro numero: ");
+                x = int.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("Soma = "+ soma);
         }
     }
 }
