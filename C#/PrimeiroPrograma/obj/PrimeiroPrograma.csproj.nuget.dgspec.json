@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\c#\\PrimeiroPrograma\\PrimeiroPrograma.csproj": {}
+    "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\C#\\PrimeiroPrograma\\PrimeiroPrograma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\c#\\PrimeiroPrograma\\PrimeiroPrograma.csproj": {
+    "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\C#\\PrimeiroPrograma\\PrimeiroPrograma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\c#\\PrimeiroPrograma\\PrimeiroPrograma.csproj",
+        "projectUniqueName": "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\C#\\PrimeiroPrograma\\PrimeiroPrograma.csproj",
         "projectName": "PrimeiroPrograma",
-        "projectPath": "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\c#\\PrimeiroPrograma\\PrimeiroPrograma.csproj",
+        "projectPath": "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\C#\\PrimeiroPrograma\\PrimeiroPrograma.csproj",
         "packagesPath": "C:\\Users\\maxth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\c#\\PrimeiroPrograma\\obj\\",
+        "outputPath": "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\C#\\PrimeiroPrograma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxth\\AppData\\Roaming\\NuGet\\NuGet.Config"
