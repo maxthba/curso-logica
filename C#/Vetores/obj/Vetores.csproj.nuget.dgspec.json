@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\C#\\EntradaDeDados\\EntradaDeDados.csproj": {}
+    "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\C#\\Vetores\\Vetores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\C#\\EntradaDeDados\\EntradaDeDados.csproj": {
+    "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\C#\\Vetores\\Vetores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\C#\\EntradaDeDados\\EntradaDeDados.csproj",
-        "projectName": "EntradaDeDados",
-        "projectPath": "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\C#\\EntradaDeDados\\EntradaDeDados.csproj",
+        "projectUniqueName": "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\C#\\Vetores\\Vetores.csproj",
+        "projectName": "Vetores",
+        "projectPath": "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\C#\\Vetores\\Vetores.csproj",
         "packagesPath": "C:\\Users\\maxth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\C#\\EntradaDeDados\\obj\\",
+        "outputPath": "C:\\Users\\maxth\\OneDrive\\Documentos\\programacao\\cursos\\curso_logica\\C#\\Vetores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxth\\AppData\\Roaming\\NuGet\\NuGet.Config"
