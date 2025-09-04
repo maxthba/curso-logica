@@ -1,0 +1,7 @@
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\diagonal negativos\obj\Debug\diagonal negativos.csproj.AssemblyReference.cache
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\diagonal negativos\obj\Debug\diagonal negativos.csproj.CoreCompileInputs.cache
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\diagonal negativos\bin\Debug\diagonal negativos.exe.config
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\diagonal negativos\bin\Debug\diagonal negativos.exe
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\diagonal negativos\bin\Debug\diagonal negativos.pdb
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\diagonal negativos\obj\Debug\diagonal negativos.exe
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\diagonal negativos\obj\Debug\diagonal negativos.pdb

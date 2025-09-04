@@ -1,0 +1,8 @@
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\soma numeros impares\bin\Debug\soma numeros impares.exe.config
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\soma numeros impares\bin\Debug\soma numeros impares.exe
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\soma numeros impares\bin\Debug\soma numeros impares.pdb
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\soma numeros impares\obj\Debug\soma numeros impares.csproj.AssemblyReference.cache
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\soma numeros impares\obj\Debug\soma numeros impares.csproj.CoreCompileInputs.cache
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\soma numeros impares\obj\Debug\soma numeros impares.exe
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\soma numeros impares\obj\Debug\soma numeros impares.pdb
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\soma numeros impares\obj\Debug\soma numeros impares.exe.config

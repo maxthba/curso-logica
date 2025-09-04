@@ -12,11 +12,11 @@ namespace EstruturaDeControle
             System.Console.Write("digite uma hora: ");
             hora = int.Parse(Console.ReadLine());
 
-            if (hora <= 12)
+            if (hora < 12)
             {
                 Console.WriteLine("Bom dia!!");
             }
-            else if (12 < hora && hora <= 18)
+            else if (hora >= 12 && hora < 18)
             {
                 Console.WriteLine("Boa tarde!!");
             }

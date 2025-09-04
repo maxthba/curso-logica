@@ -1,0 +1,8 @@
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\soma vetores\bin\Debug\soma vetores.exe.config
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\soma vetores\bin\Debug\soma vetores.exe
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\soma vetores\bin\Debug\soma vetores.pdb
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\soma vetores\obj\Debug\soma vetores.csproj.AssemblyReference.cache
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\soma vetores\obj\Debug\soma vetores.csproj.CoreCompileInputs.cache
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\soma vetores\obj\Debug\soma vetores.exe
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\soma vetores\obj\Debug\soma vetores.pdb
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\soma vetores\obj\Debug\soma vetores.exe.config

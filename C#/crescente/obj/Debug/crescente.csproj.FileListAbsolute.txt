@@ -1,0 +1,7 @@
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\crescente\bin\Debug\crescente.exe.config
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\crescente\bin\Debug\crescente.exe
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\crescente\bin\Debug\crescente.pdb
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\crescente\obj\Debug\crescente.csproj.AssemblyReference.cache
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\crescente\obj\Debug\crescente.csproj.CoreCompileInputs.cache
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\crescente\obj\Debug\crescente.exe
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\crescente\obj\Debug\crescente.pdb

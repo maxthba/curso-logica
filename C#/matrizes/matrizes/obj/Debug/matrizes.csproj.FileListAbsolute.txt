@@ -1,0 +1,8 @@
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\matrizes\matrizes\bin\Debug\matrizes.exe.config
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\matrizes\matrizes\bin\Debug\matrizes.exe
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\matrizes\matrizes\bin\Debug\matrizes.pdb
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\matrizes\matrizes\obj\Debug\matrizes.csproj.AssemblyReference.cache
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\matrizes\matrizes\obj\Debug\matrizes.csproj.CoreCompileInputs.cache
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\matrizes\matrizes\obj\Debug\matrizes.exe
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\matrizes\matrizes\obj\Debug\matrizes.pdb
+C:\Users\maxth\OneDrive\Documentos\programacao\cursos\curso_logica\C#\matrizes\matrizes\obj\Debug\matrizes.exe.config
